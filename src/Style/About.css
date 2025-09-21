@@ -1,0 +1,15 @@
+.about-contact-container {
+  padding: 50px;
+  text-align: center;
+}
+
+.about-contact-container h2 {
+  margin-bottom: 30px;
+  color: #1E93AB;
+}
+
+.about-contact-container p {
+  max-width: 700px;
+  margin: 10px auto;
+  color: #333;
+}

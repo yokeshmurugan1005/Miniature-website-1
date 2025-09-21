@@ -1,0 +1,26 @@
+.price-container {
+  padding: 50px;
+  text-align: center;
+}
+
+.price-container h2 {
+  margin-bottom: 40px;
+  color: #1E93AB;
+}
+
+.price-table {
+  margin: 0 auto;
+  border-collapse: collapse;
+  width: 80%;
+}
+
+.price-table th, .price-table td {
+  padding: 15px;
+  border: 1px solid #ddd;
+  text-align: center;
+}
+
+.price-table th {
+  background-color: #1E93AB;
+  color: white;
+}

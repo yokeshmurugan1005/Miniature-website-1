@@ -1,0 +1,21 @@
+.home-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: calc(100vh - 80px);
+  text-align: center;
+  padding: 0 20px;
+}
+
+.home-container h1 {
+  font-size: 48px;
+  margin-bottom: 20px;
+  color: #008891;
+}
+
+.home-container p {
+  font-size: 20px;
+  max-width: 800px;
+  color: #333;
+}
